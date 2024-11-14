@@ -327,11 +327,11 @@ h6,
     justify-content: center;
     background: var(--primary);
     border-radius: 2px;
-    transform: rotate(-45deg);
+    transform: rotate(0deg);
 }
 
 .service-item .service-icon i {
-    transform: rotate(45deg);
+    transform: rotate(0deg);
 }
 
 .service-item a.btn {
